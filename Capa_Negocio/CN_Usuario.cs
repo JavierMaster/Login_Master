@@ -14,6 +14,7 @@ namespace Capa_Negocio
         public static bool VerificarUsuario(string nomLogin) {
             var usuario = dcBase.Tbl_Usuario.Any(usu => usu.usu_estado == 'A' & usu.usu_nomLogin.Equals(nomLogin));
             return usuario;
+            //
         }
         public static bool VerificarContra(string conLogin)
         {
