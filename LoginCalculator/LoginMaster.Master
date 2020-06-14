@@ -1,0 +1,83 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="LoginMaster.master.cs" Inherits="LoginCalculator.LoginMaster" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Login V18</title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--===============================================================================================-->	
+	<link rel="icon" type="image/png" href="LogM/images/icons/favicon.ico"/>
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="LogM/vendor/bootstrap/css/bootstrap.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="LogM/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="LogM/fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="LogM/vendor/animate/animate.css">
+<!--===============================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="LogM/vendor/css-hamburgers/hamburgers.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="LogM/vendor/animsition/css/animsition.min.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="LogM/vendor/select2/select2.min.css">
+<!--===============================================================================================-->	
+	<link rel="stylesheet" type="text/css" href="LogM/vendor/daterangepicker/daterangepicker.css">
+<!--===============================================================================================-->
+	<link rel="stylesheet" type="text/css" href="LogM/css/util.css">
+	<link rel="stylesheet" type="text/css" href="LogM/css/main.css">
+<!--===============================================================================================-->
+    <style type="text/css">
+        .Mensaje {
+            color: green;
+        }
+        .Error {
+            color:red;
+        }
+        .Datos {
+            /*justify-content:center;*/
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+    <asp:ContentPlaceHolder ID="Cph_Header" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-color: #666666;">
+    <div class="limiter">
+		<div class="container-login100">
+			<div class="wrap-login100">
+                <form id="form1" runat="server" class="login100-form validate-form">
+                    <div>
+                        <asp:ContentPlaceHolder ID="Cph_Scripts" runat="server">
+                        </asp:ContentPlaceHolder>
+                        <asp:ContentPlaceHolder ID="Cph_Contenido" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </form>                
+				<div class="login100-more" style="background-image: url('LogM/images/bg-01.jpg');">
+				</div>
+			</div>
+		</div>
+	</div>
+<!--===============================================================================================-->
+	<script src="LogM/vendor/jquery/jquery-3.2.1.min.js"></script>
+<!--===============================================================================================-->
+	<script src="LogM/vendor/animsition/js/animsition.min.js"></script>
+<!--===============================================================================================-->
+	<script src="LogM/vendor/bootstrap/js/popper.js"></script>
+	<script src="LogM/vendor/bootstrap/js/bootstrap.min.js"></script>
+<!--===============================================================================================-->
+	<script src="LogM/vendor/select2/select2.min.js"></script>
+<!--===============================================================================================-->
+	<script src="LogM/vendor/daterangepicker/moment.min.js"></script>
+	<script src="LogM/vendor/daterangepicker/daterangepicker.js"></script>
+<!--===============================================================================================-->
+	<script src="LogM/vendor/countdowntime/countdowntime.js"></script>
+<!--===============================================================================================-->
+	<script src="LogM/js/main.js"></script>
+</body>
+</html>

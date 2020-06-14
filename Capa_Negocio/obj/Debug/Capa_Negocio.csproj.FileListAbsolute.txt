@@ -1,0 +1,20 @@
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Negocio\bin\Debug\Capa_Datos.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Negocio\bin\Debug\Capa_Datos.dll.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Negocio\obj\Debug\Capa_Negocio.csprojAssemblyReference.cache
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Negocio\obj\Debug\Capa_Negocio.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Negocio\bin\Debug\Capa_Negocio.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Negocio\bin\Debug\Capa_Negocio.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Negocio\bin\Debug\Capa_Datos.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Negocio\bin\Debug\Capa_Datos.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Negocio\bin\Debug\Capa_Datos.dll.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Negocio\obj\Debug\Capa_Negocio.csprojAssemblyReference.cache
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CoreCompileInputs.cache
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Negocio\obj\Debug\Capa_Negocio.csproj.CopyComplete
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Negocio\obj\Debug\Capa_Negocio.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Negocio\obj\Debug\Capa_Negocio.pdb

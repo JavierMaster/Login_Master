@@ -1,0 +1,122 @@
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\LoginCalculator.dll.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\LoginCalculator.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\LoginCalculator.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\csc.exe
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\csc.exe.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\csc.rsp
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\csi.exe
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\csi.exe.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\csi.rsp
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.AppContext.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Console.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.IO.Compression.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.IO.Pipes.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Security.AccessControl.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Security.Claims.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.ValueTuple.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Xml.XPath.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\vbc.exe
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\vbc.exe.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\vbc.rsp
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\VBCSCompiler.exe
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\obj\Debug\LoginCalculator.csprojAssemblyReference.cache
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\obj\Debug\LoginCalculator.csproj.CoreCompileInputs.cache
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\obj\Debug\LoginCalculator.csproj.CopyComplete
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\obj\Debug\LoginCalculator.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\obj\Debug\LoginCalculator.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\Capa_Datos.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\Capa_Negocio.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\Capa_Datos.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\Capa_Datos.dll.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\LoginCalculator\bin\Capa_Negocio.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\LoginCalculator.dll.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\LoginCalculator.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\LoginCalculator.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\csc.exe
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\csc.exe.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\csc.rsp
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\csi.exe
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\csi.exe.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\csi.rsp
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.AppContext.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Collections.Immutable.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Console.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.IO.Compression.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.IO.FileSystem.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.IO.Pipes.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Reflection.Metadata.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Security.AccessControl.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Security.Claims.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.ValueTuple.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Xml.XPath.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\vbc.exe
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\vbc.exe.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\vbc.rsp
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\VBCSCompiler.exe
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\roslyn\VBCSCompiler.exe.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\Capa_Datos.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\Capa_Negocio.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\Capa_Datos.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\Capa_Datos.dll.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\Capa_Negocio.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\obj\Debug\LoginCalculator.csprojAssemblyReference.cache
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\obj\Debug\LoginCalculator.csproj.CoreCompileInputs.cache
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\obj\Debug\LoginCalculator.csproj.CopyComplete
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\obj\Debug\LoginCalculator.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\LoginCalculator\obj\Debug\LoginCalculator.pdb

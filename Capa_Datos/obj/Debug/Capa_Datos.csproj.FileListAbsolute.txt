@@ -1,0 +1,14 @@
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Datos\bin\Debug\Capa_Datos.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Datos\bin\Debug\Capa_Datos.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Datos\obj\Debug\Capa_Datos.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\Windows C#\LoginCalculator\Capa_Datos\obj\Debug\Capa_Datos.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Datos\bin\Debug\Capa_Datos.dll.config
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Datos\bin\Debug\Capa_Datos.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Datos\bin\Debug\Capa_Datos.pdb
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Datos\obj\Debug\Capa_Datos.dll
+E:\Proyectos y Documentos\ProyectosITSCO\VisualStudio2017\GitHub\Login_Master\Login_Master\Capa_Datos\obj\Debug\Capa_Datos.pdb

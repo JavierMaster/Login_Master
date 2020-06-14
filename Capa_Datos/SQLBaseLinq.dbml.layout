@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SQLBaseLinq">
+  <DataContextMoniker Name="/SQLBaseLinqDataContext" />
+  <nestedChildShapes>
+    <classShape Id="64608fb7-a9e5-4f1a-84e2-ba7a223427bd" absoluteBounds="3.5, 4.875, 2, 1.7708968098958327">
+      <DataClassMoniker Name="/SQLBaseLinqDataContext/Tbl_Productos" />
+      <nestedChildShapes>
+        <elementListCompartment Id="5030ac2b-ee0b-4f92-a244-e2a0c987d391" absoluteBounds="3.515, 5.335, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="113881c3-f91c-4cd5-9e88-fba8ed2c113f" absoluteBounds="0.75, 5.125, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/SQLBaseLinqDataContext/Tbl_Proveedor" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9e3c11a0-ea72-4feb-8a49-a98b7cf3c8ed" absoluteBounds="0.765, 5.585, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="3d20e034-0ee7-4815-804f-4c7a1b512449" absoluteBounds="0.75, 1.75, 2, 1.3862939453125003">
+      <DataClassMoniker Name="/SQLBaseLinqDataContext/Tbl_TipoUsuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aa3957b5-8829-4f9b-8d06-0bd0b60a58b9" absoluteBounds="0.765, 2.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0ade1e64-d0d4-4639-908e-1d242bdcf82f" absoluteBounds="3.5, 1, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/SQLBaseLinqDataContext/Tbl_Usuario" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a4a79743-bcb4-4cde-b350-cac12302cb8e" absoluteBounds="3.515, 1.46, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 5.81814697265625); (3.5 : 5.81814697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SQLBaseLinqDataContext/Tbl_Proveedor/Tbl_Proveedor_Tbl_Productos" />
+      <nodes>
+        <classShapeMoniker Id="113881c3-f91c-4cd5-9e88-fba8ed2c113f" />
+        <classShapeMoniker Id="64608fb7-a9e5-4f1a-84e2-ba7a223427bd" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 2.44314697265625); (3.5 : 2.44314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/SQLBaseLinqDataContext/Tbl_TipoUsuario/Tbl_TipoUsuario_Tbl_Usuario" />
+      <nodes>
+        <classShapeMoniker Id="3d20e034-0ee7-4815-804f-4c7a1b512449" />
+        <classShapeMoniker Id="0ade1e64-d0d4-4639-908e-1d242bdcf82f" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
